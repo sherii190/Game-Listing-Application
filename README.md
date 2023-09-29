@@ -11,7 +11,6 @@ Welcome to the Game Listing Application! This project is a full-stack React app 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features 🚀
 
