@@ -1,9 +1,13 @@
 import React from 'react'
+import logo from './../assets/images/logo.png'
 
 const Header = () => {
   return (
     <div>
-      Header
+      <img src={logo} width={60} height={60}/>
+      <div>
+        <input type= 'text'/>
+      </div>
     </div>
   )
 }
