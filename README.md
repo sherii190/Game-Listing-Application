@@ -1,8 +1,40 @@
-# React + Vite
+# Game Listing Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Game Listing Application! This project is a full-stack React app with Tailwind CSS and Vite, designed to help users explore various game categories and view game ratings, all sourced from an open-source gaming API.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [Check it out here!](https://game-listing-application-sherii190.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features 🚀
+
+- Browse games by categories: action, racing, education, and more.
+- View game ratings and relevant information. 🎮
+
+## Technologies Used 📦
+
+- React ⚛️
+- Tailwind CSS 🎨
+- Vite 🏗️
+
+## Installation ⚙️
+
+1. Clone the repository: `git clone https://github.com/sherii190/Game-Listing-Application.git`
+2. Navigate to the project directory: `cd Game-Listing-Application`
+3. Install dependencies: `npm install` 🛠️
+
+## Usage 📝
+
+1. Run the development server: `npm run dev`
+2. Access the game in your browser at `http://localhost:1234`
+
+## Contributing 🤝
+
+Contributions are welcome! If you find any issues or would like to add new features, feel free to open a pull request. 🤝
